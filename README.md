@@ -845,3 +845,12 @@ Nuestro objetivo es acompañarte en cada paso de tu camino hacia el éxito, brin
     <p style="font-size: 16px; margin-bottom: 20px;">Equípate con lo mejor en indumentaria deportiva. Descubre nuestra colección hoy mismo.</p>
     <a href="{{store url='products/tienda.html'}}" style="padding: 10px 20px; background-color: #fff; color: #0074D9; text-decoration: none; border-radius: 5px; font-size: 16px;">Explorar colecciones</a>
 </div>
+
+
+SEGUNDO CODIGO QUIENES SOMOS
+
+<div style="padding: 20px; text-align: center; background-color: #0074D9; color: #fff; border-radius: 10px;">
+    <h2 style="font-size: 28px; margin-bottom: 10px;">¡Empieza tu próxima aventura deportiva!</h2>
+    <p style="font-size: 16px; margin-bottom: 20px;">Equípate con lo mejor en indumentaria deportiva. Descubre nuestra colección hoy mismo.</p>
+    <a href="{{store url='products/tienda.html'}}" style="padding: 10px 20px; background-color: #fff; color: #0074D9; text-decoration: none; border-radius: 5px; font-size: 16px;">Explorar colecciones</a>
+</div>
