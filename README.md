@@ -323,6 +323,82 @@ ZAPATILLAS:
 </html>
 
 
+
+
+
+
+
+TITULO ADIDAS: 
+
+<div id="countdown" style="font-family: Arial, sans-serif; text-align: center; padding: 20px; background-color: #242d4a; color: #ffffff; border-radius: 10px;">
+    <h2>Adidas Superstar Originals</h2>
+
+</div>
+
+<!-- Estilos CSS para el contador -->
+<style>
+    #countdown h2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    #timer div {
+        font-size: 24px;
+        font-weight: bold;
+        padding: 15px;
+        border-radius: 5px;
+        background-color: #fff;
+        color: #004aad;
+    }
+    
+    #timer div span {
+        display: block;
+        font-size: 16px;
+        color: #333;
+    }
+</style>
+
+<!-- JavaScript para el contador de Navidad -->
+<script>
+    // Fecha objetivo: Navidad (25 de diciembre)
+    const christmasDate = new Date("Dec 25, 2024 00:00:00").getTime();
+
+    // Actualiza el contador cada segundo
+    const x = setInterval(function() {
+
+        // Obtén la fecha y hora actuales
+        const now = new Date().getTime();
+        
+        // Encuentra la distancia entre ahora y la fecha de Navidad
+        const distance = christmasDate - now;
+        
+        // Calcula el tiempo restante
+        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // Muestra el resultado en el HTML
+        document.getElementById("days").innerHTML = `${days} <span>Días</span>`;
+        document.getElementById("hours").innerHTML = `${hours} <span>Horas</span>`;
+        document.getElementById("minutes").innerHTML = `${minutes} <span>Minutos</span>`;
+        document.getElementById("seconds").innerHTML = `${seconds} <span>Segundos</span>`;
+
+        // Si el contador llega a 0, muestra un mensaje
+        if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("countdown").innerHTML = "<h2>¡Nueva colección!</h2>";
+        }
+    }, 1000);
+</script>
+
+
+
+
+
+
+
+
 TESTIMONIOS: 
 
 <div class="testimonial">
@@ -388,6 +464,8 @@ TESTIMONIOS:
         margin-right: 2px; /* Espacio entre las estrellas */
     }
 </style>
+
+
 
 TARJETAS DE CRÉDITO:
 
