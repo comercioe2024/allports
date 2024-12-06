@@ -1,5 +1,12 @@
 # allports
 HEADER: 
+<div class="slider-container" style="background-color: #004aad; color: #fff; text-align: center; padding: 8px; position: relative; overflow: hidden; max-height: 50px;">
+    <div class="slider-wrapper" style="display: flex; transition: transform 0.3s ease; width: 100%;">
+        <div class="slider-item" style="flex: 1; min-width: 100%; box-sizing: border-box;">
+            <p style="margin: 0; font-size: 14px; font-weight: normal; color: #fff; line-height: 1.2;">Envío gratis a todo el país</p>
+        </div>
+    </div>
+</div>
 
 
 FOOTER:
