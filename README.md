@@ -3,6 +3,127 @@ HEADER:
 
 
 FOOTER:
+<!-- Enlace a Font Awesome para los íconos -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+
+<style>
+    footer.page-footer {
+        display: none;
+    }
+
+    /* Estilos generales del footer */
+    footer {
+        background-color: #f0f0f0;
+        color: #ffffff; 
+        padding: 40px 20px;
+        text-align: center;
+        font-family: Arial, sans-serif;
+    }
+
+    /* Contenedor principal */
+    footer .footer-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        max-width: 1200px;
+        margin: 0 auto;
+        text-align: left;
+    }
+
+    /* Estilos para columnas */
+    footer .footer-column {
+        flex: 1;
+        min-width: 200px;
+        padding: 10px 20px;
+    }
+
+    /* Títulos de las secciones */
+    footer h4 {
+        margin-bottom: 15px;
+        text-transform: uppercase;
+        font-size: 18px;
+        color: #919191; /* Títulos blancos */
+    }
+
+    /* Listas de enlaces */
+    footer ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    footer ul li {
+        margin-bottom: 10px;
+        color: #0472b8;
+    }
+
+    footer ul li a {
+        color: #0472b8; /* Texto y enlaces blancos */
+        text-decoration: none;
+        font-size: 14px;
+    }
+
+    footer ul li a:hover {
+        text-decoration: underline;
+    }
+
+    /* Estilo para los íconos */
+    footer .social-icons a {
+        margin-right: 10px;
+        font-size: 18px;
+        color: #0472b8; /* Íconos blancos */
+        text-decoration: none;
+        display: inline-block;
+        transition: color 0.3s;
+    }
+
+    footer .social-icons a:hover {
+        color: #0472b8; /* Íconos dorados al pasar el mouse */
+    }
+</style>
+
+<!-- Pie de Página -->
+<footer>
+    <div class="footer-container">
+        <!-- Columna 1: Nuestra Empresa -->
+        <div class="footer-column">
+            <h4>Nuestra Empresa</h4>
+            <ul>
+                <li><a href="/quienes-somos">Quiénes Somos</a></li>
+                <li><a href="/contacto">Contacto</a></li>
+                <li><a href="/sucursales">Sucursal</a></li>
+                <li><a href="/politicas-de-privacidad">Políticas de Privacidad</a></li>
+                <li><a href="/terminos-y-condiciones">Términos y Condiciones</a></li>
+            </ul>
+        </div>
+
+        <!-- Columna 2: Preguntas Frecuentes -->
+        <div class="footer-column">
+            <h4>Preguntas Frecuentes</h4>
+            <ul>
+               <li><a href="/como-comprar">Cómo Comprar</a></li>
+                <li><a href="/politicas">Política de Envíos</a></li>
+                <li><a href="/devoluciones">Devoluciones</a></li>
+                <li><a href="/medios-de-pago">Medios de Pago</a></li>
+                <li><a href="/boton">Botón de Arrepentimiento</a></li>
+            </ul>
+        </div>
+
+        <!-- Columna 3: Seguinos -->
+        <div class="footer-column">
+            <h4>Seguinos</h4>
+            <div class="social-icons">
+                <a href="https://www.facebook.com" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://www.twitter.com" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.instagram.com" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.linkedin.com" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+        </div>  
+            </ul>
+        </div>
+    </div>
+</footer>
+
 
 Pagina Contacto
 
