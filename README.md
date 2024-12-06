@@ -194,7 +194,121 @@ FOOTER:
 </head>
 <body>
 
-Medios de Pago
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Términos y Condiciones - All Sports</title>
+    <link rel="stylesheet" href="styles.css">
+    
+    
+<style>
+        /* Estilo para el título principal */
+        h1 {
+            color: #0074D9;
+            text-align: center;
+            margin: 40px auto 20px auto;
+            font-size: 36px;
+        }
+
+        /* Estilo general de la página */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Contenedor principal */
+        .terms-container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo de los párrafos */
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* Estilo de subtítulos */
+        h2 {
+            font-size: 20px;
+            color: #004aad;
+            margin-bottom: 10px;
+        }
+
+        /* Estilo del pie de página */
+        footer {
+            background-color: #ffffff;
+            color: #333;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+Pagina Terminos y condiciones 
+
+    <h1>Términos y Condiciones</h1>
+
+    <div class="terms-container">
+        <p>Bienvenido a <strong>All Sports</strong>, tu tienda de indumentaria deportiva. Al utilizar nuestro sitio web, aceptas los términos y condiciones establecidos a continuación. Por favor, léelos detenidamente antes de continuar navegando.</p>
+
+        
+
+     
+<h2>1. Aceptación de los Términos</h2>
+        
+      
+<p>El acceso y uso de este sitio web están sujetos a estos Términos y Condiciones, así como a las leyes aplicables. Al usar nuestro sitio, declaras aceptar estos términos. Si no estás de acuerdo, te recomendamos no utilizar nuestros servicios.</p>
+
+        <h2>2. Modificaciones en los Términos</h2>
+        <p>Nos reservamos el derecho de actualizar o modificar estos Términos y Condiciones en cualquier momento sin previo aviso. Es responsabilidad del usuario revisar esta página periódicamente para estar informado de posibles cambios.</p>
+
+        
+
+<h2>3. Uso del Sitio</h2>
+        <p>El contenido de este sitio es únicamente para uso personal. Está prohibido utilizar el sitio con fines ilícitos o que puedan dañar, sobrecargar o deteriorar su funcionalidad.</p>
+
+        <h2>4. Propiedad Intelectual</h2>
+        <p>Todo el contenido de este sitio, incluidos textos, imágenes, logotipos y diseños, es propiedad de All Sports y está protegido por leyes de derechos de autor. Queda estrictamente prohibido reproducir, distribuir o modificar cualquier contenido sin nuestro consentimiento previo.</p>
+
+        <h2>5. Información de los Productos</h2>
+        <p>Nos esforzamos por garantizar la precisión de las descripciones de los productos. Sin embargo, no garantizamos que todas las descripciones sean completamente precisas, completas o libres de errores.</p>
+
+        <h2>6. Pedidos y Pagos</h2>
+        <p>Al realizar un pedido en nuestro sitio, aceptas proporcionar información precisa y actualizada. Nos reservamos el derecho de cancelar cualquier pedido en caso de error en los precios o disponibilidad de productos.</p>
+
+        <h2>7. Limitación de Responsabilidad</h2>
+        <p>En la medida permitida por la ley, All Sports no se hace responsable por daños directos o indirectos derivados del uso de este sitio o de los productos adquiridos en él.</p>
+
+        
+
+        
+<h2>8. Contacto</h2>
+        <p>Si tienes alguna pregunta sobre estos Términos y Condiciones, no dudes en contactarnos a través de nuestro formulario de contacto o enviando un correo a <a href="mailto:soporte@allsports.com">soporte@allsports.com</a>.</p>
+    </div>
+
+  
+
+</body>
+</html>
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
