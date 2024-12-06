@@ -113,6 +113,215 @@ CONTADOR DE TIEMPO:
     }, 1000);
 </script>
 
+ZAPATILLAS:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+   
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productos</title>
+    <style>
+        .product-grid {
+            disp
+
+        .product-grid {
+            d
+
+        .product-grid {
+         
+
+        .product-grid {
+     
+
+        .product-grid {
+
+      
+
+    
+
+ 
+
+        .product-grid {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .product-item {
+            width: 200px;
+            text-align: center;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+
+        .product-item:hover {
+            transform: scale(1.05);
+        }
+
+        .product-item img {
+            width: 100%;
+            height: auto;
+        }
+
+        .product-item h3 {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+
+        .product-item .product-price {
+            font-size: 16px;
+            color: #333;
+            margin: 5px 0;
+        }
+
+        .product-item .free-shipping {
+            background-color: #003366;
+            color: #ffffff;
+            font-size: 14px;
+            padding: 5px;
+            border-radius: 5px;
+            margin: 10px auto;
+            display: inline-block;
+        }
+    </style>
+
+</head
+</head>
+
+
+<body>
+    <div class="product-grid">
+        
+    
+
+ 
+<!-- Zapatillas Superstar Clásica -->
+        <a href="http://20.9.128.208/zapatillas-adidas-superstar-originals.html" class="product-item">
+            <img src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ed0855435194229a525aad6009a0497_9366/Zapatillas_Superstar_Blanco_EG4958_01_standard.jpg" alt="Superstar Clásica">
+            
+         
+
+      
+
+   
+<h3>Superstar Clásica</h3>
+            <p class="product-price">$179.999</p>
+            
+      
+
+    
+
+ 
+<div class="free-shipping">Envío gratis</div>
+        
+    
+
+  
+</a>
+        
+        
+        
+        <!
+
+        
+       
+
+        
+    
+
+        
+<!-- Zapatillas Superstar Verde -->
+        
+    
+
+  
+<a href="http://20.9.128.208/zapatillas-adidas-superstar-originals.html" class="product-item">
+            
+           
+
+       
+
+  
+<img src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/68984814016b41d88b1b1de7c16aa168_9366/Zapatillas_Superstar_Blanco_ID1374_01_standard.jpg" alt="Superstar Verde">
+            <h3>Superstar Verde</h3>
+            
+           
+<p class="product-price">$179.999</p>
+            
+           
+<div class="free-shipping">Envío gratis</div>
+        
+       
+</a>
+        
+        
+        
+<!-- Zapatillas Superstar Bordeaux -->
+        
+        
+<a href="http://20.9.128.208/zapatillas-adidas-superstar-originals.html" class="product-item">
+            
+           
+
+     
+<img src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/759b91dd7cae46c39dc1aeed00c40bf7_9366/Zapatillas_Superstar_Blanco_HP9845_01_standard.jpg" alt="Superstar Bordeaux">
+            
+       
+
+   
+<h3>Superstar Bordeaux</h3>
+            
+         
+
+     
+<p class="product-price">$179.999</p>
+            
+          
+
+     
+<div class="free-shipping">Envío gratis</div>
+        
+        </
+
+   
+</a>        
+
+        
+
+        <!
+
+
+  
+<!-- Zapatillas Superstar Amarilla -->
+        
+     
+<a href="http://20.9.128.208/zapatillas-adidas-superstar-originals.html" class="product-item">
+            
+         
+
+  
+<img src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/dab45852f08c4172be05ae310056a68c_9366/Zapatillas_Superstar_Blanco_GZ4741_01_standard.jpg" alt="Superstar Amarilla">
+            
+  
+<h3>Superstar Amarilla</h3>
+            <p class="product-price">$179.999</p>
+            
+            
+
+           
+<div class="free-shipping">Envío gratis</div>
+        </a>
+    </div>
+</body>
+</html>
+
 
 TESTIMONIOS: 
 
