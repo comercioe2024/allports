@@ -7,6 +7,46 @@ FOOTER:
 
 HOME PAGE:
 
+BOTON WHATSAPP:
+
+<!-- Botón de WhatsApp -->
+<a href="https://wa.me/1234567890" target="_blank" class="whatsapp-button">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" class="whatsapp-icon">
+</a>
+
+<!-- Estilo CSS para el botón flotante -->
+<style>
+    .whatsapp-button {
+        position: fixed;
+        bottom: 20px; /* Ubicación en la parte inferior de la página */
+        right: 20px; /* Ubicación en el lado derecho de la página */
+        background-color: #25d366;
+        border-radius: 50%;
+        padding: 15px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        z-index: 1000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+    .whatsapp-button:hover {
+        background-color: #128c7e; /* Cambio de color al pasar el mouse */
+    }
+
+    .whatsapp-icon {
+        width: 50px;
+        height: 50px;
+    }
+</style>
+
+
+
+
+
+
 PORTADA DIVIDA EN 3:
 
 <div class="carousel-container" style="position: relative; width: 100%; overflow: hidden; border-radius: 10px;">
