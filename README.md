@@ -194,6 +194,122 @@ FOOTER:
 </head>
 <body>
 
+Medios de Pago
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    
+   
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+ 
+<title>Medios de Pago - All Sports</title>
+    
+  
+<link rel="stylesheet" href="styles.css">
+    <style>
+        /* Estilo para el títu
+
+        /* Estilo para el título principal */
+        h1 {
+            color: #0074D9;
+            text-align: center;
+            margin: 40px auto 20px auto;
+            font-size: 36px;
+        }
+
+        /* Estilo general de la página */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Contenedor principal */
+        .payment-container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo de los párrafos */
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* Estilo de subtítulos */
+        h2 {
+            font-size: 20px;
+            color: #004aad;
+            margin-bottom: 10px;
+        }
+
+        /* Estilo del pie de página */
+        footer {
+            background-color: #ffffff;
+            color: #333;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    
+
+ 
+<h1>Medios de Pago</h1>
+
+    <div class="payment-container">
+        <p>En <strong>All Sports</strong>, ofrecemos múltiples opciones de pago para que tu experiencia de compra sea cómoda, rápida y segura. A continuación, detallamos los métodos disponibles:</p>
+
+        <h2>1. Tarjetas de Crédito y Débito</h2>
+        <p>Aceptamos las principales tarjetas de crédito y débito, incluyendo Visa, Mastercard, American Express y otras tarjetas reconocidas. Los pagos son procesados de forma segura a través de nuestra plataforma.</p>
+
+        <h2>2. Transferencias Bancarias</h2>
+        <p>También puedes realizar pagos mediante transferencia bancaria directa. Al elegir esta opción, recibirás los datos necesarios para completar tu transacción.</p>
+
+        
+
+      
+<h2>3. Pagos en Efectivo</h2>
+        <p>Disponemos de opciones para pagos en efectivo a través de redes como OXXO, RapiPago y PagoFácil. Solo necesitas generar tu orden y seguir las instrucciones para realizar el pago en el punto habilitado más cercano.</p>
+
+        
+
+  
+<h2>4. Plataformas de Pago Digital</h2>
+        
+   
+<p>Trabajamos con plataformas reconocidas como MercadoPago y PayPal para ofrecer mayor flexibilidad y seguridad en tus transacciones.</p>
+
+        <h2>5. Cuotas y Financiación</h2>
+        <p>En caso de ser aplicable, ofrecemos planes de cuotas sin interés con bancos seleccionados. Consulta las promociones vigentes al momento de tu compra.</p>
+
+        <h2>6. Seguridad en los Pagos</h2>
+        <p>Todos los pagos realizados en nuestro sitio están protegidos mediante tecnología de encriptación SSL, asegurando la confidencialidad de tus datos personales y financieros.</p>
+    </div>
+
+
+
+
+
+</body
+</body>
+</html>
+
+
+
 Politicas de Privacidad 
 
 <!DOCTYPE html>
