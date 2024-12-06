@@ -114,7 +114,71 @@ CONTADOR DE TIEMPO:
 </script>
 
 
+TESTIMONIOS: 
 
+<div class="testimonial">
+    <p>"¡Las zapatillas son increíbles!" - <strong>Juan Pérez</strong></p>
+    <div class="stars">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+    </div>
+</div>
+
+<div class="testimonial">
+    <p>"Me encantan mis superstar. Son súper cómodas para usarlas todo el día y combinan con casi toda mi ropa." - <strong>Ana Gómez</strong></p>
+    <div class="stars">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+    </div>
+</div>
+
+<div class="testimonial">
+    <p>"Las uso para complementar mis outfits y siempre recibo comentarios positivos.¡Recomiendo totalmente!" - <strong>Carlos Rodríguez</strong></p>
+    <div class="stars">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+    </div>
+</div>
+
+<!-- Estilo CSS para las estrellas -->
+<style>
+    .testimonial {
+        font-family: Arial, sans-serif;
+        background-color: #004aad;
+        padding: 20px;
+        margin: 20px 0;
+        border-radius: 10px;
+        box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .testimonial p {
+        font-size: 16px;
+        color: #fff;
+    }
+
+    .customer-name {
+        font-weight: bold;
+        color: #555;
+    }
+
+    .stars {
+        color: #FFD700;  /* Color amarillo para las estrellas */
+        font-size: 20px;
+    }
+
+    .star {
+        margin-right: 2px; /* Espacio entre las estrellas */
+    }
+</style>
 
 TARJETAS DE CRÉDITO:
 
