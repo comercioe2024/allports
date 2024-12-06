@@ -131,6 +131,110 @@ FOOTER:
     </div>
 </footer>
 
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cómo Comprar - All Sports</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Estilo para el título principal */
+        h1 {
+            color: #0074D9;
+            text-align: center;
+            margin: 40px auto 20px auto;
+            font-size: 36px;
+        }
+
+        /* Estilo general de la página */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Contenedor principal */
+        .how-to-buy-container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo de los párrafos */
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* Estilo de subtítulos */
+        h2 {
+            font-size: 20px;
+            color: #004aad;
+            margin-bottom: 10px;
+        }
+
+        /* Estilo del pie de página */
+        footer {
+            background-color: #ffffff;
+            color: #333;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+Pagina - Como Comprar
+    <h1>Cómo Comprar</h1>
+
+    <div class="how-to-buy-container">
+        <p>Comprar en <strong>All Sports</strong> es muy sencillo. Sigue estos pasos para adquirir tus productos favoritos de forma rápida y segura:</p>
+
+        <h2>1. Explora nuestro catálogo</h2>
+        <p>Visita nuestras secciones de productos para encontrar lo que buscas. Puedes utilizar el buscador o filtrar por categorías, marcas y precios.</p>
+
+        <h2>2. Selecciona tus productos</h2>
+        <p>Cuando encuentres un producto que te interese, selecciona el tamaño, color u otras opciones disponibles, y haz clic en el botón <strong>"Agregar al carrito"</strong>. Puedes añadir tantos productos como desees.</p>
+
+        <h2>3. Revisa tu carrito</h2>
+        <p>Haz clic en el icono del carrito en la parte superior de la página para revisar los productos seleccionados. Aquí podrás actualizar cantidades o eliminar productos si es necesario.</p>
+
+        <h2>4. Inicia el proceso de compra</h2>
+        <p>Cuando estés listo, haz clic en el botón <strong>"Finalizar compra"</strong>. Si no tienes una cuenta, podrás registrarte o comprar como invitado.</p>
+
+        <h2>5. Ingresa tus datos</h2>
+        <p>Completa el formulario con tus datos personales, dirección de envío y preferencias de contacto. Asegúrate de que la información sea correcta para evitar retrasos en la entrega.</p>
+
+        <h2>6. Selecciona el método de envío</h2>
+        <p>Elige entre las opciones de envío disponibles según tu ubicación. Verás el costo y el tiempo estimado de entrega antes de confirmar tu pedido.</p>
+
+        <h2>7. Elige el método de pago</h2>
+        <p>Selecciona el método de pago que prefieras, como tarjeta de crédito, débito, transferencia bancaria o plataformas de pago digitales. Todos nuestros métodos son seguros y protegidos.</p>
+
+        <h2>8. Confirma tu compra</h2>
+        <p>Revisa todos los detalles de tu pedido y haz clic en <strong>"Confirmar pedido"</strong>. Recibirás un correo de confirmación con el resumen de tu compra.</p>
+
+        <h2>9. Recibe tu pedido</h2>
+        <p>Te notificaremos cuando tu pedido sea enviado. Podrás rastrearlo fácilmente con el número de seguimiento que te proporcionaremos.</p>
+
+        <h2>10. Disfruta de tus productos</h2>
+        <p>¡Listo! Disfruta de tus compras y no dudes en contactarnos si tienes alguna pregunta o problema.</p>
+    </div>
+
+
+</body>
+</html>
+
 Boton de Arrepentimiento
 
 <!DOCTYPE html>
