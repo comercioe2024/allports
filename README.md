@@ -153,7 +153,121 @@ CONTADOR DE TIEMPO:
     }, 1000);
 </script>
 
-ZAPATILLAS:
+
+SECCION ADIDAS: 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productos</title>
+    <style>
+        .product-grid {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .product-item {
+            width: 200px;
+            text-align: center;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+
+        .product-item:hover {
+            transform: scale(1.05);
+        }
+
+        .product-item img {
+            width: 100%;
+            height: auto;
+        }
+
+        .product-item h3 {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+
+        .product-item .product-price {
+            font-size: 16px;
+            color: #333;
+            margin: 5px 0;
+        }
+
+        .product-item .free-shipping {
+            background-color: #003366;
+            color: #ffffff;
+            font-size: 14px;
+            padding: 5px;
+            border-radius: 5px;
+            margin: 10px auto;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="product-grid">
+        <!-- Zapatillas Adidas -->
+        <a href="http://20.9.128.208/zapatillas-adidas-nino-a.html" class="product-item">
+            <img src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/41c6de7a10e54487913bad7101606f42_9366/360_SANDAL_I_Negro_GX0864_01_standard.jpg" alt="Producto 1">
+            <h3>Zapatillas Adidas</h3>
+            <p class="product-price">$100.000</p>
+            <div class="free-shipping">Envío gratis</div>
+        </a>
+        
+        <!-- Botella Adidas -->
+        <a href="http://20.9.128.208/botella-celeste-adidas.html" class="product-item">
+            <img src="https://http2.mlstatic.com/D_Q_NP_982045-MLU73605013646_122023-O.webp" alt="Producto 2">
+            <h3>Botella Adidas</h3>
+            <p class="product-price">$15.000</p>
+            <div class="free-shipping">Envío gratis</div>
+        </a>
+        
+        <!-- Remera Argentina -->
+        <a href="http://20.9.128.208/remera-argentina-adidas.html" class="product-item">
+            <img src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/29825b2765df4f449134febbd28f4f66_9366/Camiseta_Alternativa_Argentina_24_Azul_IP8403_01_laydown.jpg" alt="Producto 3">
+            <h3>Remera Argentina</h3>
+            <p class="product-price">$89.000</p>
+            <div class="free-shipping">Envío gratis</div>
+        </a>
+
+        <!-- Top Deportivo Adidas -->
+        <a href="http://20.9.128.208/top-deportivo-adidas-mujer.html" class="product-item">
+            <img src="https://assets.adidas.com/images/w_600,f_auto,q_auto/8c2b9bc187e7474f98c1ae8300d92e0a_9366/Top_Deportivo_Powerreact_Training_Techfit_Soporte_Medio_Negro_HN7273_01_laydown.jpg" alt="Producto 4">
+            <h3>Top Deportivo Adidas</h3>
+            <p class="product-price">$41.000</p>
+            <div class="free-shipping">Envío gratis</div>
+ </a>
+
+        <!-- Sandalias Adidas -->
+        <a href="http://agtiendas.store/sandalias-adidas-nino-a.html" class="product-item">
+            <img src="http://agtiendas.store/media/catalog/product/cache/c41affb7fe0f63ffd37172f4caba23a0/s/i/sin_t_tulo_700_x_700_px_1_.png" alt="Producto 4">
+            <h3>Sandalias Adidas</h3>
+            <p class="product-price">$68.000</p>
+            <div class="free-shipping">Envío gratis</div>
+        </a>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+ZAPATILLAS ADIDAS COLORES :
 
 <!DOCTYPE html>
 <html lang="en">
