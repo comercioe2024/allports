@@ -131,6 +131,140 @@ FOOTER:
     </div>
 </footer>
 
+Boton de Arrepentimiento
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Botón de Arrepentimiento - All Sports</title>
+    <style>
+        /* Estilo para el título principal */
+        h1 {
+            color: #0074D9;
+            text-align: center;
+            margin: 40px auto 20px auto;
+            font-size: 36px;
+            font-weight: normal; /* Esto elimina la negrita */
+        }
+
+        /* Estilo general de la página */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Contenedor principal */
+        .form-container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo de los párrafos */
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* Estilo de subtítulos */
+        h2 {
+            font-size: 20px;
+            color: #004aad;
+            margin-bottom: 10px;
+        }
+
+        /* Estilo del formulario */
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        label {
+            font-size: 16px;
+            color: #555;
+        }
+
+        input, textarea, select, button {
+            font-size: 16px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: 100%;
+        }
+
+        button {
+            background-color: #004aad;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+        }
+
+        button:hover {
+            background-color: #003a78;
+        }
+
+        /* Estilo del pie de página */
+        footer {
+            background-color: #ffffff;
+            color: #333;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Formulario de Botón de Arrepentimiento</h1>
+
+    <div class="form-container">
+        <p>Por favor, completa el siguiente formulario para ejercer tu derecho de arrepentimiento. Nuestro equipo procesará tu solicitud a la brevedad y se pondrá en contacto contigo para confirmar los pasos siguientes.</p>
+
+        <form action="/procesar-arrepentimiento" method="POST">
+            <label for="nombre">Nombre completo:</label>
+            <input type="text" id="nombre" name="nombre" required placeholder="Ingresa tu nombre completo">
+
+            <label for="email">Correo electrónico:</label>
+            <input type="email" id="email" name="email" required placeholder="Ingresa tu correo electrónico">
+
+            <label for="telefono">Teléfono de contacto:</label>
+            <input type="tel" id="telefono" name="telefono" required placeholder="Ingresa tu teléfono">
+
+            <label for="numero-pedido">Número de pedido:</label>
+            <input type="text" id="numero-pedido" name="numero-pedido" required placeholder="Ingresa tu número de pedido">
+
+            <label for="motivo">Motivo del arrepentimiento:</label>
+            <select id="motivo" name="motivo" required>
+                <option value="" disabled selected>Selecciona un motivo</option>
+                <option value="producto-dañado">Producto dañado</option>
+                <option value="error-compra">Error en la compra</option>
+                <option value="no-satisfecho">No estoy satisfecho con el producto</option>
+                <option value="otro">Otro</option>
+            </select>
+
+            <label for="detalles">Detalles adicionales (opcional):</label>
+            <textarea id="detalles" name="detalles" rows="4" placeholder="Escribe más detalles si es necesario"></textarea>
+
+            <button type="submit">Enviar solicitud</button>
+        </form>
+    </div>
+
+</body>
+</html>
+
+
 
 Pagina Contacto
 
