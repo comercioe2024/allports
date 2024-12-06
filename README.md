@@ -4,6 +4,149 @@ HEADER:
 
 FOOTER:
 
+<!DOCTYPE html>
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    
+   
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+<title>Políticas de Envío - All Sports</title>
+    
+ 
+<link rel="stylesheet" href="styles.css">
+    
+   
+<style>
+        /* Estilo para el títul
+
+        /* Estilo para el 
+
+        /* Es
+
+        /*
+
+       
+
+    
+
+        /* Estilo para el título */
+        h1 {
+            color: #0074D9; /* Color azul */
+            text-align: center;
+            margin: 40px auto 20px auto; /* Margen superior e inferior ajustados */
+            font-size: 36px;
+        }
+
+        /* Estilo general de la página */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Contenedor de la política de envío */
+        .policy-container {
+            width: 90%; /* Más ancho en dispositivos pequeños */
+            max-width: 800px; /* Límite máximo de ancho */
+            margin: 0 auto; /* Centrado horizontal */
+            padding: 30px; /* Espaciado interno */
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo de los párrafos */
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* Estilo de subtítulos */
+        h2 {
+            font-size: 20px;
+            color: #004aad; /* Color azul para subtítulos */
+            margin-bottom: 10px;
+        }
+
+        /* Estilo del pie de página */
+        footer {
+            background-color: #ffffff;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+    </style>
+
+</hea
+
+</
+</head>
+<body>
+
+    
+
+    
+<h1>Políticas de Envío</h1>
+
+    <div class="policy-container">
+        <p>En <strong>All Sports</strong>, nos aseguramos de ofrecer un servicio de envío rápido y seguro para todos nuestros clientes. A continuación, detallamos nuestras políticas de envío:</p>
+
+        
+
+        
+<h2>1. Métodos de Envío</h2>
+        <p>Ofrecemos varios métodos de envío, incluyendo opciones estándar y exprés. El costo de envío dependerá de la opción seleccionada y la ubicación de entrega.</p>
+
+        
+
+     
+<h2>2. Tiempo de Entrega</h2>
+        
+   
+<p>El tiempo estimado de entrega es de 3 a 7 días hábiles para el envío estándar y de 1 a 3 días hábiles para el envío exprés. Estos tiempos pueden variar según la ubicación y la disponibilidad de los productos.</p>
+       
+
+<h2>3. Seguimiento de Envíos</h2>
+        
+       
+<p>Una vez que tu pedido haya sido enviado, recibirás un número de seguimiento para que puedas monitorear el estado de tu envío en todo momento.</p>
+
+        <h2>4. Problemas con el Envío</h2>
+        
+       
+<p>Si experimentas algún problema con tu envío, como retrasos o daños en el paquete, por favor contáctanos de inmediato a través de nuestro formulario de contacto para resolver la situación lo antes posible.</p>
+
+        
+
+      
+
+
+<h2>5. Políticas de Devoluciones y Reembolsos</h2>
+        
+        
+
+   
+<p>Si no estás satisfecho con tu pedido, puedes consultar nuestra política de devoluciones y reembolsos para obtener más detalles sobre cómo devolver un producto.</p>
+    
+    </div
+</div>
+
+ 
+
+</body>
+</html>
+
+`
+
 
 HOME PAGE:
 
