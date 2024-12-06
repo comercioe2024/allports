@@ -258,6 +258,124 @@ FOOTER:
 </head>
 <body>
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Devoluciones - All Sports</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Estilo para el título princi
+
+        /* Estilo para el t
+
+        /* Est
+
+        /* Estilo para el título principal */
+        h1 {
+            color: #0074D9;
+            text-align: center;
+            margin: 40px auto 20px auto;
+            font-size: 36px;
+        }
+
+        /* Estilo general de la página */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Contenedor principal */
+        .returns-container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo de los párrafos */
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* Estilo de subtítulos */
+        h2 {
+            font-size: 20px;
+            color: #004aad;
+            margin-bottom: 10px;
+        }
+
+        /* Estilo del pie de página */
+        footer {
+            background-color: #ffffff;
+            color: #333;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+    </style>
+
+</
+</head>
+<body>
+
+Pagina de Devoluciones 
+
+    <h1>Devoluciones</h1>
+
+    <div class="returns-container">
+        <p>En <strong>All Sports</strong>, trabajamos para garantizar tu satisfacción con cada compra. Si por alguna razón no estás completamente satisfecho con un producto, aquí encontrarás toda la información sobre nuestra política de devoluciones:</p>
+
+        <h2>1. Plazo para Devoluciones</h2>
+        <p>Aceptamos devoluciones dentro de los 30 días posteriores a la fecha de entrega del producto, siempre que cumpla con las condiciones descritas a continuación.</p>
+
+        <h2>2. Condiciones para la Devolución</h2>
+        <p>Para ser elegible para una devolución, el producto debe estar en su estado original, sin uso y con su empaque original. También debes incluir todos los accesorios y etiquetas que venían con el producto.</p>
+
+        
+
+        
+<h2>3. Productos no Elegibles para Devolución</h2>
+        
+  
+<p>Los productos en oferta, personalizados o de uso íntimo no pueden ser devueltos, a menos que presenten defectos de fábrica.</p>
+
+        
+
+       
+<h2>4. Proceso de Devolución</h2>
+        <p>Para iniciar una devolución, contáctanos a través de nuestro formulario de contacto o enviando un correo electrónico a <a href="mailto:soporte@allsports.com">soporte@allsports.com</a>. Proporciona tu número de pedido y los detalles del producto que deseas devolver.</p>
+
+        
+
+     
+<h2>5. Costos de Envío por Devolución</h2>
+        <p>En caso de devolución por defectos o errores en el envío, cubriremos los costos de envío. Si la devolución es por motivos personales, el cliente será responsable de los costos de envío.</p>
+
+        <h2>6. Reembolsos</h2>
+        
+   
+<p>Una vez recibida y revisada la devolución, te notificaremos el estado de tu reembolso. Si es aprobado, el reembolso se procesará automáticamente a tu método de pago original en un plazo de 5 a 10 días hábiles.</p>
+
+        <h2>7. Cambios</h2>
+        <p>Si deseas cambiar un producto, te recomendamos iniciar el proceso de devolución y realizar una nueva compra con el artículo deseado.</p>
+    </div>
+
+   
+
+</body>
+</html>
+
+
 Pagina Terminos y condiciones 
 
     <h1>Términos y Condiciones</h1>
