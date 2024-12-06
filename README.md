@@ -153,6 +153,47 @@ CONTADOR DE TIEMPO:
     }, 1000);
 </script>
 
+SECCION DE BUSCADOR POR MARCAS
+
+<div class="brand-section">
+    <span class="arrow" id="prev-arrow">&#8249;</span>
+    <div class="brand-carousel" id="carousel">
+        <a href="https://www.underarmour.com" target="_blank">
+            <img src="https://i.imgur.com/n1ZAOu5.jpeg" alt="Under Armour">
+        </a>
+        <a href="http://20.9.128.208/products/adidas.html" target="_blank">
+            <img src="https://i.imgur.com/yeT5z94.jpeg" alt="Adidas">
+        </a>
+        <a href="https://www.converse.com" target="_blank">
+            <img src="https://i.imgur.com/wxuMTI9.jpeg" alt="Converse">
+        </a>
+        <a href="https://www.puma.com" target="_blank">
+            <img src="https://i.imgur.com/o0rip8w.jpeg" alt="Puma">
+        </a>
+        <a href="http://20.9.128.208/products/nike.html" target="_blank">
+            <img src="https://i.imgur.com/zAUa3JU.jpeg" alt="Nike">
+        </a>
+        <a href="https://www.vans.com" target="_blank">
+            <img src="https://i.imgur.com/cJKRkZG.jpeg" alt="Vans">
+        </a>
+        <a href="https://www.newbalance.com" target="_blank">
+            <img src="https://i.imgur.com/k2yAVjB.jpeg" alt="New Balance">
+        </a>
+        <a href="https://imgur.com/OCUs1Q7" target="_blank">
+            <img src="https://i.imgur.com/OCUs1Q7.jpeg" alt="Fila">
+        </a>
+        <a href="https://imgur.com/Uc7ij7" target="_blank">
+            <img src="https://i.imgur.com/Uc7ij7j.jpeg" alt="Wilson">
+        </a>
+        <a href="http://20.9.128.208/reebok.html" target="_blank">
+            <img src="https://i.imgur.com/lsHNleN.jpeg" alt="Reebok">
+        </a>
+    </div>
+    <span class="arrow" id="next-arrow">&#8250;</span>
+</div>
+
+
+
 SECCION DESTACADOS: 
 
 <!DOCTYPE html> 
