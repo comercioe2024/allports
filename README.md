@@ -153,6 +153,121 @@ CONTADOR DE TIEMPO:
     }, 1000);
 </script>
 
+SECCION DESTACADOS: 
+
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productos</title>
+    <style>
+        .product-grid {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .product-item {
+            width: 200px;
+            text-align: center;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            position: relative;
+            transition: transform 0.2s;
+        }
+
+        .product-item:hover {
+            transform: scale(1.05);
+        }
+
+        .product-item img {
+            width: 100%;
+            height: auto;
+        }
+
+        .product-item h3 {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+
+        .product-item .product-price {
+            font-size: 16px;
+            color: #333;
+            margin: 5px 0;
+        }
+
+        .product-item .free-shipping {
+            background-color: #003366;
+            color: #ffffff;
+            font-size: 14px;
+            padding: 5px;
+            border-radius: 5px;
+            margin: 10px auto;
+            display: inline-block;
+        }
+
+        .product-item .brand-icon {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 30px;
+            height: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="product-grid">
+        <!-- Gorra Nike -->
+        <a href="http://agtiendas.store/gorra-nike-logo-pipa.html" class="product-item">
+            <img src="http://agtiendas.store/media/catalog/product/cache/c41affb7fe0f63ffd37172f4caba23a0/w/h/whatsapp_image_2024-11-28_at_11.03.16_pm_1_.jpeg" alt="Gorra Nike">
+           
+            <h3>Gorra Nike</h3>
+            <p class="product-price">$24.999</p>
+            <div class="free-shipping">Envío gratis</div>
+        </a>
+
+        <!-- Gorra Jordan -->
+        <a href="http://agtiendas.store/gorra-jordan-pro.html" class="product-item">
+            <img src="http://agtiendas.store/media/catalog/product/cache/c41affb7fe0f63ffd37172f4caba23a0/w/h/whatsapp_image_2024-11-28_at_8.49.13_pm.jpeg" alt="Gorra Jordan Pro">
+            <h3>Gorra Jordan Pro</h3>
+            <p class="product-price">$35.999</p>
+            <div class="free-shipping">Envío gratis</div>
+        </a>
+
+        <!-- Medias Nike -->
+        <a href="http://agtiendas.store/medias-nike-negras.html" class="product-item">
+            <img src="http://agtiendas.store/media/catalog/product/w/h/whatsapp_image_2024-11-26_at_7.36.45_pm.jpeg" alt="Medias Nike">
+           
+            <h3>Medias Nike</h3>
+            <p class="product-price">$15.000</p>
+            <div class="free-shipping">Envío gratis</div>
+        </a>
+
+        <!-- Remera Reebok -->
+        <a href="http://agtiendas.store/remera-rebook-essentials-hombre.html" class="product-item">
+            <img src="http://agtiendas.store/media/catalog/product/cache/c41affb7fe0f63ffd37172f4caba23a0/w/h/whatsapp_image_2024-11-26_at_22.44.59.jpeg" alt="Remera Reebok"> 
+            <h3>Remera Reebok</h3>
+            <p class="product-price">$57.999</p>
+            <div class="free-shipping">Envío gratis</div>
+        </a>
+
+        <!-- Zapatillas Air Force -->
+        <a href="zapatillas-nike-air-force-one-mujer.html" class="product-item">
+            <img src="http://agtiendas.store/media/catalog/product/cache/c41affb7fe0f63ffd37172f4caba23a0/w/h/whatsapp_image_2024-11-28_at_10.43.12_pm_1.jpeg" alt="Zapatillas Air Force">
+           
+            <h3>Zapatillas Air Force</h3>
+            <p class="product-price">$89.999</p>
+            <div class="free-shipping">Envío gratis</div>
+        </a>
+
+    </div>
+</body>
+</html>
+
 
 SECCION ADIDAS: 
 
