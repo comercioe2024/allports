@@ -42,6 +42,7 @@ PORTADA DIVIDA EN 3:
     setInterval(nextSlide, 5000);
 </script>
 
+
 CONTADOR DE TIEMPO:
 
 <!-- Contador regresivo para Navidad -->
@@ -111,6 +112,43 @@ CONTADOR DE TIEMPO:
         }
     }, 1000);
 </script>
+
+
+
+
+TARJETAS DE CRÉDITO:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medios de Pago</title>
+    <style>
+        .credit-cards {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin: 20px;
+        }
+
+        .credit-cards img {
+            width: 50px; /* Tamaño más pequeño */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="credit-cards">
+        <img src="https://newsport.vtexassets.com/assets/vtex/assets-builder/newsport.theme/4.0.14/img/footer/visa___ebca95f156bd36dbc03625849cdc7e15.svg" alt="Visa">
+        <img src="https://newsport.vtexassets.com/assets/vtex/assets-builder/newsport.theme/4.0.14/img/footer/mastercard___7f0b6e086dd0d6cf2a6406e4b128eedb.svg" alt="Mastercard">
+        <img src="https://newsport.vtexassets.com/assets/vtex/assets-builder/newsport.theme/4.0.14/img/footer/american-express___5f158bd210a9b080d61251b5b5a5a814.svg" alt="Amex">
+        <img src="https://newsport.vtexassets.com/assets/vtex/assets-builder/newsport.theme/4.0.14/img/footer/pago-facil___9e4fa5e4372e805a34c7b22e52f29598.svg" alt="Pago Fácil">
+    </div>
+</body>
+</html>
+
+
 
 NEWSLETTER: 
 
