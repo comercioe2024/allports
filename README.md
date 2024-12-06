@@ -112,5 +112,17 @@ CONTADOR DE TIEMPO:
     }, 1000);
 </script>
 
+NEWSLETTER: 
+
+<div style="background-color: #242d4a; padding: 15px; display: flex; align-items: center; justify-content: center; color: white; font-size: 16px;">
+    <span style="margin-right: 10px;">Suscribite para enterarte de nuevos ingresos.</span>
+    <!-- Formulario de Mailchimp -->
+    <form action="https://example.us5.list-manage.com/subscribe/post?u=your-unique-id&amp;id=your-list-id" method="post" target="_blank" novalidate>
+        <input type="email" name="EMAIL" placeholder="Ingrese su email" style="padding: 10px; border-radius: 5px; border: none; width: 250px; margin-right: 10px;" required>
+        <button type="submit" style="background-color: white; color: #003366; border: none; padding: 10px 15px; border-radius: 5px; cursor: pointer;">
+            ➔
+        </button>
+    </form>
+</div>
 
 
