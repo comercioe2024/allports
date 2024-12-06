@@ -4,6 +4,152 @@ HEADER:
 
 FOOTER:
 
+Pagina Contacto
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    
+    
+  
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+<title>Contacto - All Sports</title>
+    
+    
+<link rel="stylesheet" href="styles.css">
+    
+   
+<style>
+        /* Estilo para el título princ
+
+        /* Estilo para el título pr
+
+        /* Estilo para el título
+
+        /* Estilo para el tít
+
+        /* Estilo para el
+
+        /*
+
+        /* Estilo para el título principal */
+        h1 {
+            color: #0074D9;
+            text-align: center;
+            margin: 40px auto 20px auto;
+            font-size: 36px;
+        }
+
+        /* Estilo general de la página */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Contenedor principal */
+        .contact-container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Información de contacto */
+        .contact-info {
+            margin-bottom: 20px;
+        }
+
+        .contact-info p {
+            font-size: 16px;
+            color: #333;
+            margin: 5px 0;
+        }
+
+        /* Estilo del formulario */
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            font-size: 14px;
+            margin: 10px 0 5px;
+        }
+
+        input, textarea {
+            font-size: 16px;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        button {
+            font-size: 16px;
+            padding: 10px 20px;
+            color: #fff;
+            background-color: #0074D9;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            text-align: center;
+        }
+
+        button:hover {
+            background-color: #005bb5;
+        }
+
+        /* Estilo del pie de página */
+        footer {
+            background-color: #ffffff;
+            color: #333;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Contacto</h1>
+
+    <div class="contact-container">
+        <div class="contact-info">
+            <p>¿Tienes preguntas o necesitas ayuda? Contáctanos a través de los siguientes medios:</p>
+            <p><strong>Teléfono:</strong> (0351) 123-4567</p>
+            <p><strong>Email:</strong> contacto@allsports.com</p>
+            <p><strong>Dirección:</strong> Avenida Colón 1070, Córdoba, Argentina.</p>
+        </div>
+
+        <h2>Consultanos</h2>
+        <form action="/enviar-consulta" method="POST">
+            <label for="nombre">Nombre</label>
+            <input type="text" id="nombre" name="nombre" placeholder="Ingresa tu nombre" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="Ingresa tu correo electrónico" required>
+
+            <label for="mensaje">Consulta</label>
+            <textarea id="mensaje" name="mensaje" rows="5" placeholder="Escribe tu consulta aquí..." required></textarea>
+
+            <button type="submit">Enviar Consulta</button>
+        </form>
+    </div>
+
+
+</body>
+</html>
+
+
 Pagina  - sucursales 
 
 <!DOCTYPE html>
