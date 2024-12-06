@@ -824,4 +824,19 @@ NEWSLETTER:
     </form>
 </div>
 
+QUIENES SOMOS:
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; padding: 20px; background-color: #f9f9f9; border-radius: 10px; gap: 20px;">
+    <div style="flex: 1; min-width: 300px;">
+        <h2 style="font-size: 28px; color: #0074D9;">Bienvenidos a All Sports</h2>
+        <p style="font-size: 16px; color: #555; line-height: 1.6;">
+           En All Sports, creemos que el deporte es para todos. Nos especializamos en ofrecer una amplia variedad de indumentaria, accesorios y calzados deportivos de alta calidad para hombres, mujeres y niños. 
+
+Nuestro objetivo es acompañarte en cada paso de tu camino hacia el éxito, brindándote productos que te ayuden a alcanzar tus metas mientras luces increíble. 
+        </p>
+    </div>
+    <div style="flex: 1; min-width: 300px; text-align: center;">
+        <img src="{{media url='wysiwyg/freepik__candid-image-photography-natural-textures-highly-r__12445.jpeg}}" alt="All Sport" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+    </div>
+</div>
 
