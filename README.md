@@ -4,6 +4,93 @@ HEADER:
 
 FOOTER:
 
+Pagina  - sucursales 
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sucursal - All Sports</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Estilo para el título principal */
+        h1 {
+            color: #0074D9;
+            text-align: center;
+            margin: 40px auto 20px auto;
+            font-size: 36px;
+        }
+
+        /* Estilo general de la página */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Contenedor principal */
+        .branch-container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo del mapa */
+        .map-container iframe {
+            width: 100%;
+            height: 400px;
+            border: none;
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+            margin: 10px 0;
+        }
+
+        /* Estilo del pie de página */
+        footer {
+            background-color: #ffffff;
+            color: #333;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Nuestra Sucursal</h1>
+
+    <div class="branch-container">
+        <p>Visítanos en nuestra sucursal ubicada estratégicamente para brindarte el mejor servicio:</p>
+
+        <p><strong>Dirección:</strong> Avenida Colón 1070, Córdoba, Argentina.</p>
+        <p><strong>Horario:</strong> Lunes a Viernes, de 08:00 a 20:00 hrs.</p>
+        <p><strong>Teléfono:</strong> (0351) 8586500</p>
+
+        <div class="map-container">
+            <iframe 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3405.1805090902444!2d-64.20011152472235!3d-31.409152395901017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x943298872505bfb1%3A0x3e6d7b79efeb66d1!2sAv.%20Col%C3%B3n%201070%2C%20X5000EPX%20C%C3%B3rdoba!5e0!3m2!1ses!2sar!4v1732231300458!5m2!1ses!2sar" 
+                allowfullscreen="" 
+                loading="lazy" 
+                referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+        </div>
+    </div>
+
+   
+</body>
+</html>
+
+Pie de pagina - politicas
 <!DOCTYPE html>
 
 
