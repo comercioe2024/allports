@@ -194,6 +194,105 @@ FOOTER:
 </head>
 <body>
 
+Politicas de Privacidad 
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Políticas de Privacidad - All Sports</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Estilo para el título principal */
+        h1 {
+            color: #0074D9;
+            text-align: center;
+            margin: 40px auto 20px auto;
+            font-size: 36px;
+        }
+
+        /* Estilo general de la página */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Contenedor principal */
+        .privacy-container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo de los párrafos */
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* Estilo de subtítulos */
+        h2 {
+            font-size: 20px;
+            color: #004aad;
+            margin-bottom: 10px;
+        }
+
+        /* Estilo del pie de página */
+        footer {
+            background-color: #ffffff;
+            color: #333;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Políticas de Privacidad</h1>
+
+    <div class="privacy-container">
+        <p>En <strong>All Sports</strong>, respetamos tu privacidad y nos comprometemos a proteger tus datos personales. A continuación, te explicamos cómo recopilamos, utilizamos y protegemos tu información:</p>
+
+        <h2>1. Información Recopilada</h2>
+        <p>Recopilamos información personal cuando realizas una compra, creas una cuenta o interactúas con nuestro sitio. Esto incluye, pero no se limita a, tu nombre, correo electrónico, dirección de envío, número de teléfono y detalles de pago.</p>
+
+        <h2>2. Uso de la Información</h2>
+        <p>Utilizamos tus datos para procesar pedidos, mejorar la experiencia de usuario, enviar actualizaciones sobre el estado de tus compras y compartir promociones o noticias, si así lo autorizas.</p>
+
+        <h2>3. Protección de Datos</h2>
+        <p>Implementamos medidas de seguridad técnicas y organizativas para proteger tus datos personales contra accesos no autorizados, pérdidas o alteraciones.</p>
+
+        <h2>4. Compartir Información con Terceros</h2>
+        <p>No compartimos tu información personal con terceros, excepto cuando sea necesario para procesar pedidos (por ejemplo, empresas de envío o procesadores de pago) o cuando la ley lo requiera.</p>
+
+        <h2>5. Cookies</h2>
+        <p>Utilizamos cookies para mejorar la experiencia de navegación. Puedes ajustar la configuración de cookies desde tu navegador en cualquier momento.</p>
+
+        <h2>6. Tus Derechos</h2>
+        <p>Tienes derecho a acceder, corregir o eliminar tu información personal. Para ejercer estos derechos, contáctanos en <a href="mailto:privacidad@allsports.com">privacidad@allsports.com</a>.</p>
+
+        <h2>7. Cambios en la Política</h2>
+        <p>Nos reservamos el derecho de actualizar esta política en cualquier momento. Las actualizaciones serán publicadas en esta página con la fecha correspondiente.</p>
+
+        <h2>8. Contacto</h2>
+        <p>Si tienes preguntas o inquietudes sobre nuestras políticas de privacidad, contáctanos en <a href="mailto:privacidad@allsports.com">privacidad@allsports.com</a>.</p>
+    </div>
+
+
+</body>
+</html>
+
+
 Pagina - Como Comprar
     <h1>Cómo Comprar</h1>
 
